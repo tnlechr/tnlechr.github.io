@@ -33,7 +33,7 @@ a:visited {
 }
 
 a:hover {
-  color: #75c5de;
+  color: #005ebb;
   font-size: 15px;
   font-weight: bold;
 }
@@ -420,7 +420,7 @@ td.table_line {
  }
 
 .menulist a:hover{
-  color: #005ebb;
+  color: #74e2e6;
   background-image: url(img/side_menu_bg_hover.gif);
   background-repeat: no-repeat;
 }

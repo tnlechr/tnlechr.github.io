@@ -16,13 +16,15 @@
 >> II. Multiscale Continuum Modeling
 
 ### Afterword 
->> Despite my exceptionally inveterate inertia to computer programming *(to phrase it lightly)*, my first voluntary venture, [TNA Theory](https://tnlechr.github.io), stands miraculously triumphant.
+>> Despite my exceptional inertia toward computer programming *(to phrase it lightly)*, my first voluntary venture, [TNA Theory](https://tnlechr.github.io), stands miraculously triumphant.
 >>
->> Broken script has to be tended to over & over again until it runs. It demands patience—meticulous, pedantic revision—evidently incompatible with a beginner fixated on perfection.
->>
->> The privilege to lead my high school's $31,000+ *Make-A-Wish* fundraiser over just five-days in 2023 changed many things for me beyond freshman year. Just *one* of them, was acknowledging the ubiquity of code. I'd assigned the creation of a community-facing donor portal to the Outreach Committee, but admittedly dissatisfied with the template sites I received, I reluctantly agreed to resign my inertia and undertake web development once again.
->>
->> Today, my commitment to pursuing **biophysical oncology** means constant exposure to code-heavy computational models. Less disinclined this time, I rallied enough resolve to try again; what this repository accumulates, is a developing proficiency in the exact skills I've been avoiding for years.
+>> Broken script has to be tended to over & over again until it runs. It demands a meticulous patience, evidently incompatible with a novice fixated on perfection *(me)*.
+>> #
+>>> The privilege to lead my high school's $31,000+ *Make-A-Wish* fundraiser over just five-days in 2023 changed many things for me beyond freshman year—but just *one* catalyst, was beginning to capitulate the necessity & sheer ubiquity of code.
+>>>
+>>> While our advisor had assigned the curation of a community-facing sponsor portal to the Outreach Committee, admittedly dissatisfied with the template sites received, I settled my *three-year inveterate* disinclination to undertake web development once more. The *overwhelming* success & support of our record-setting campaign site was the first time I could *tangibly* feel the impact of something *I* facilitated, reluctantly challenging my limits.
+>> #
+>> Today, my commitment to pursuing **biophysical oncology** means a constant exposure to code-heavy computational models. Rallying the newfound resolve of a pedant, this repository demonstrates my developing proficiency in the exact skills I've been avoiding for years.
 
 ### Contact
 >> email: chrletne@gmail.com
